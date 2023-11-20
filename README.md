@@ -6,7 +6,7 @@
 - 📫 If you want to make friends with me or there are some other things,
      maybe you can send messages to zhaocake@foxmail.com
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens&show_icons=true&theme=radical)
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaocake&show_icons=true&theme=radical)
 <!---
 ZhaoCake/ZhaoCake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
