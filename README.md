@@ -6,6 +6,8 @@
 - 📫 If you want to make friends with me or there are some other things,
      maybe you can send messages to zhaocake@foxmail.com
 
+![ZhaoCake's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaocake&count_private=true)
+
 ![Zhao Cake's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhaocake&hide_border=true&langs_count=6&theme=gruvbox&hide=makefile,cmake,html)
 <!---
 ![ZhaoCake's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaocake&show_icons=true&theme=gruvbox&count_private=true) 
