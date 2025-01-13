@@ -1,15 +1,32 @@
-# Welcome to ZhaoCake
-- 👋 Hi, I’m @ZhaoCake
-- 👀 I’m interested in Chinese Characters.
-- 🌱 I’m currently learning deep learning and computer vision
-- 💞️ These days I am interested in OpenMMLab, it's really convenient.
-- 📫 If you want to make friends with me or there are some other things,
-     maybe you can send messages to zhaocake@foxmail.com
+# Welcome to ZhaoCake's GitHub Profile 🎉
+
+## Hello! I'm @ZhaoCake 👋
+
+- 🌟 **Interests**: I have a passion for calligraphy.
+- 🚀 **Learning Focus**: Currently learning deep learning and computer vision.
+- 💡 **Recent Exploration**: I'm exploring neural network acceleration on FPGA and the application of RISC-V architecture.
+- 📬 **Contact Me**: If you want to make friends or have other inquiries, feel free to email me at [zhaocake@foxmail.com](mailto:zhaocake@foxmail.com).
+
+---
+
+### 🔧 Skills
+
+- **Programming Languages**: Python, C, and C++ are commonly used, with other languages also in use.
+- **Fields of Interest**: RISC-V, FPGA, and AI inference.
+
+---
+
+### 📊 GitHub Stats
 
 ![Zhao Cake's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhaocake&hide_border=true&langs_count=8&theme=gruvbox&hide=html&layout=compact)
-<!---
-![ZhaoCake's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaocake&show_icons=true&theme=gruvbox&count_private=true) 
 
-ZhaoCake/ZhaoCake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![ZhaoCake's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaocake&show_icons=true&theme=gruvbox&count_private=true)
+
+---
+
+### 🌐 Contact
+
+Feel free to reach out via email at [zhaocake@foxmail.com](mailto:zhaocake@foxmail.com).
+
+
+
