@@ -22,11 +22,5 @@
 
 ![ZhaoCake's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaocake&show_icons=true&theme=gruvbox&count_private=true)
 
----
-
-### 🌐 Contact
-
-Feel free to reach out via email at [zhaocake@foxmail.com](mailto:zhaocake@foxmail.com).
-
 
 
