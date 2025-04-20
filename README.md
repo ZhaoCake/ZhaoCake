@@ -18,7 +18,7 @@
 
 ### 📊 GitHub Stats
 
-![Zhao Cake's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhaocake&hide_border=true&langs_count=8&theme=gruvbox&hide=html&layout=compact)
+![Zhao Cake's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhaocake&hide_border=true&langs_count=10&theme=gruvbox&hide=html&layout=compact)
 
 ![ZhaoCake's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaocake&show_icons=true&theme=gruvbox&count_private=true)
 
