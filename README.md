@@ -50,7 +50,7 @@ Small experiments, incomplete prototypes, and imperfect models are often the fas
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="right" valign="middle">
-      <img src="https://my-grs.vercel.app/api/top-langs/?username=zhaocake&hide_border=true&langs_count=8&theme=gruvbox&layout=compact&hide=systemverilog,html,typescript,javascript,tex,tcl" height="350" width="auto" />
+      <img src="https://my-grs.vercel.app/api/top-langs/?username=zhaocake&hide_border=true&langs_count=8&theme=gruvbox&layout=compact&hide=systemverilog,html,typescript,javascript,tex,tcl,astro,makefile,shell,verilog,dart,css,cmake" height="350" width="auto" />
     </td>
     <td width="50%" align="left" valign="middle">
       <img src="https://my-grs.vercel.app/api?username=zhaocake&show_icons=true&theme=gruvbox&count_private=true&hide_border=true" height="350" width="auto" />
